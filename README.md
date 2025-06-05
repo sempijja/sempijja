@@ -1,6 +1,5 @@
 ## Heyaaaaaaaaa 👋
 
-<img src="https://raw.githubusercontent.com/sempijja/sempijja/output/snake.svg" alt="Snake animation" />
 
 ###
 
